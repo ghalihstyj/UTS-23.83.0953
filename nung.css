@@ -1,0 +1,23 @@
+body {
+    background-color: #28a745;
+    background-image: url(padi.jpg);
+    background-attachment: fixed;  
+    background-size: cover;
+      
+}
+
+footer {
+    background-color: #28a745;
+    color: rgb(0, 0, 0)
+   
+
+}
+.navbar {
+    background-color: #28a745;
+}
+
+
+h1 {
+    color: #28a745;
+}
+
